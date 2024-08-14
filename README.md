@@ -1,6 +1,6 @@
 # Richard Huskey
-## Associate Professor
-## UC Davis
+Associate Professor
+UC Davis
 
 [@richardhuskey.bsky.social](https://bsky.app/profile/richardhuskey.bsky.social)
 
